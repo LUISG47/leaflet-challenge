@@ -17,10 +17,16 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
 1. Get your dataset. To do so, follow these steps:
 
-+ The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
++ The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON Feed: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
+
+![Screenshot 2025-01-31 at 9 56 20 p m](https://github.com/user-attachments/assets/36abbec4-49ca-4ead-a77d-43b877063507)
 
 
 + When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
+I choosed the dataset with all earthquakes from the past hour on January 31 2025 10:00 pm
+
+![Screenshot 2025-01-31 at 9 37 13 p m](https://github.com/user-attachments/assets/d9e2a66a-584f-42f8-87f9-ecc1952b14c3)
+
 
 2. Import and visualize the data by doing the following:
 
@@ -29,7 +35,10 @@ Your first task is to visualize an earthquake dataset. Complete the following st
   + Hint: The depth of the earth can be found as the third coordinate for each earthquake.
 + Include popups that provide additional information about the earthquake when its associated marker is clicked.
 + Create a legend that will provide context for your map data.
-+ Your visualization should look something like the preceding map.
++ Your visualization should look something like this map:
+
+![Screenshot 2025-01-31 at 9 36 38 p m](https://github.com/user-attachments/assets/cb150f47-d0b1-46d6-aab5-81dfa7d33777)
+
 
 ## Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
