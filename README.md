@@ -25,7 +25,9 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 + When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 I choosed the dataset with all earthquakes from the past hour on January 31 2025 10:00 pm
 
-![Screenshot 2025-01-31 at 9 37 13 p m](https://github.com/user-attachments/assets/d9e2a66a-584f-42f8-87f9-ecc1952b14c3)
+
+![Screenshot 2025-01-31 at 10 07 09 p m](https://github.com/user-attachments/assets/3257d472-8f82-4a06-b4bd-ded8d0ad1bc8)
+
 
 
 2. Import and visualize the data by doing the following:
