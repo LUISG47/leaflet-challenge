@@ -114,9 +114,10 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geoj
 
   legend.addTo(map);
 
-
+  //-----------------------------------------------------------------
   // OPTIONAL: Step 2
   // Make a request to get our Tectonic Plate geoJSON data.
+  //-----------------------------------------------------------------
   d3.json("https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json").then(function(plate_data) {
     // Save the geoJSON data, along with style information, to the tectonic_plates layer.
     L.geoJson(plate_data, {
