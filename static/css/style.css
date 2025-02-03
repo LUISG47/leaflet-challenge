@@ -8,3 +8,20 @@ body,
 html {
   height: 100%;
 }
+
+/* Style the legend */
+.info {
+  padding: 6px;
+  background: white;
+  border: 2px solid gray;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Optional: Adds a slight shadow */
+}
+
+.info.legend i {
+  width: 30px; /* Width of the colored square */
+  height: 20px; /* Height of the colored square */
+  float: left; /* Aligns colored square and text */
+  margin-right: 8px; /* Space between square and text */
+  opacity: 0.7; /* Make squares slightly transparent */
+}
