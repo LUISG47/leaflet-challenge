@@ -37,9 +37,16 @@ I choosed the dataset with all earthquakes from the past hour on January 31 2025
   + Hint: The depth of the earth can be found as the third coordinate for each earthquake.
 + Include popups that provide additional information about the earthquake when its associated marker is clicked.
 + Create a legend that will provide context for your map data.
-+ Your visualization should look something like this map:
+Your visualization should look like this:
 
-![Screenshot 2025-01-31 at 9 36 38 p m](https://github.com/user-attachments/assets/cb150f47-d0b1-46d6-aab5-81dfa7d33777)
++ Base Map:
+
+<img width="1728" alt="Screenshot 2025-02-03 at 12 06 34 p m" src="https://github.com/user-attachments/assets/05df2d3e-a5e0-4e2c-9ed2-a7310d0785fd" />
+
+
++ Street Map:
+
+<img width="1726" alt="Screenshot 2025-02-03 at 12 06 26 p m" src="https://github.com/user-attachments/assets/76328574-5a4e-4258-bca3-b92508aeab5d" />
 
 
 ## Part 2: Gather and Plot More Data (Optional with no extra points earning)
