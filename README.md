@@ -52,3 +52,30 @@ Perform the following tasks:
 + Add other base maps to choose from.
 + Put each dataset into separate overlays that can be turned on and off independently.
 + Add layer controls to your map.
+
+For this part there's also another map views implemented on the code with different base map layers.
+
+For this demonstration i added the all day earthquakes json from past day taken on Febrary 3 2025 with this link added to the code: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
+
+
+The display from this day on the maps should look like this:
+
++ Base Map:
+<img width="1712" alt="Screenshot 2025-02-03 at 11 44 26 a m" src="https://github.com/user-attachments/assets/ea24b716-93f6-4613-b416-839c08f83aad" />
+
++ Terrain Map:
+<img width="1706" alt="Screenshot 2025-02-03 at 11 45 10 a m" src="https://github.com/user-attachments/assets/b2120620-deef-4d8f-92fb-09552d83c13a" />
+
++ Dark Map:
+<img width="1707" alt="Screenshot 2025-02-03 at 11 45 19 a m" src="https://github.com/user-attachments/assets/9bf80c83-a21b-479f-b682-893927cab32a" />
+
++Light Map:
+<img width="1704" alt="Screenshot 2025-02-03 at 11 45 27 a m" src="https://github.com/user-attachments/assets/b9f7daee-61f0-4d17-9563-e9213bee83a7" />
+
+
+
+
+
+
+
+
