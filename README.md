@@ -37,6 +37,9 @@ I choosed the dataset with all earthquakes from the past hour on January 31 2025
   + Hint: The depth of the earth can be found as the third coordinate for each earthquake.
 + Include popups that provide additional information about the earthquake when its associated marker is clicked.
 + Create a legend that will provide context for your map data.
+
+For this part please make sure to open the **index.html** file 
+
 Your visualization should look like this:
 
 + Base Map:
@@ -64,6 +67,7 @@ For this part there's also another map views implemented on the code with differ
 
 For this demonstration i added the all day earthquakes json from past day taken on Febrary 3 2025 with this link added to the code: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
 
+For this part please make sure to open the **index2.html** file 
 
 The display from this day on the maps should look like this:
 
