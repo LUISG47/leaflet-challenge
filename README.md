@@ -69,7 +69,7 @@ The display from this day on the maps should look like this:
 + Dark Map:
 <img width="1707" alt="Screenshot 2025-02-03 at 11 45 19 a m" src="https://github.com/user-attachments/assets/9bf80c83-a21b-479f-b682-893927cab32a" />
 
-+Light Map:
++ Light Map:
 <img width="1704" alt="Screenshot 2025-02-03 at 11 45 27 a m" src="https://github.com/user-attachments/assets/b9f7daee-61f0-4d17-9563-e9213bee83a7" />
 
 
